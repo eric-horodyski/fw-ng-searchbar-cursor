@@ -1,0 +1,7 @@
+{
+  "name": "scrolltest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
